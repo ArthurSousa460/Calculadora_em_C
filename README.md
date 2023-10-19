@@ -7,7 +7,7 @@
 <ul>
   <li>Variáveis</li>
   <li>Condições</li>
-  <li>Estruturas de repetição(while, switch case)</li>
+  <li>Estruturas de repetição</li>
   <li>Funções</li>
 </ul>
 
